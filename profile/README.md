@@ -1,4 +1,4 @@
-![Digital Vision](dv-cover-blue.png)
+![Digital Vision](/profile/dv-cover-blue.png)
 
 ## Hi there, we are [Digital Vision](https://digitalvision.cz) 👋
 
