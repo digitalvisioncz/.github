@@ -1,4 +1,4 @@
-![Digital Vision](https://uploads-ssl.webflow.com/62e27f63e13257264079651d/62e38d9edd6d202f0c4c398f_Group%20100.svg)
+![Digital Vision](dv-cover-blue.png)
 
 ## Hi there, we are [Digital Vision](https://digitalvision.cz) 👋
 
