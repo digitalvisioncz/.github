@@ -1,6 +1,5 @@
-![Digital Vision](/profile/dv-cover-blue.png)
+![Digital Vision](/profile/LI_1128x191_03.png)
 
-## Hi there, we are [Digital Vision](https://digitalvision.cz) 👋
 
 Our studio is based in Prague and works worldwide with international clients and teams. Nowadays, we are an agency in size, yet a studio in spirit and attitude. 
 We partner with brands and businesses that create exceptional experiences and bring value in their industry and want to bring that same excellence to the digital realm.
